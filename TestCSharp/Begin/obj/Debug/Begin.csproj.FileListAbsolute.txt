@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\Begin\bin\Debug\Begin.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\Begin\bin\Debug\Begin.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\Begin\bin\Debug\Begin.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\Begin\bin\Debug\TestCSharp.dll
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\Begin\bin\Debug\TestCSharp.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\Begin\obj\Debug\Begin.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\Begin\obj\Debug\Begin.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\Begin\obj\Debug\Begin.pdb

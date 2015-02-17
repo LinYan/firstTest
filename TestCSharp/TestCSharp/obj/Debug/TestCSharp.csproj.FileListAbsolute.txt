@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\TestCSharp\bin\Debug\TestCSharp.dll
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\TestCSharp\bin\Debug\TestCSharp.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\TestCSharp\obj\Debug\TestCSharp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\TestCSharp\obj\Debug\TestCSharp.dll
+c:\users\administrator\documents\visual studio 2013\Projects\TestCSharp\TestCSharp\obj\Debug\TestCSharp.pdb
