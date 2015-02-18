@@ -13,6 +13,6 @@ int main()
 	freopen("b.txt", "w", stdout);
 #endif
         int a = 0;
-	
+	string b = 'abc';
 	return 0;
 }
