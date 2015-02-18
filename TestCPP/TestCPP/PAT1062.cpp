@@ -14,5 +14,6 @@ int main()
 #endif
         int a = 0;
 	string b = 'abc';
+	double c = 0;
 	return 0;
 }
