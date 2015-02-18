@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PAT.cpp" />
+    <ClCompile Include="PAT1062.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{EE750B9A-510E-4C55-82B9-6178C3745180}</ProjectGuid>
